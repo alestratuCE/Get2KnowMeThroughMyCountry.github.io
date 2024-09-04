@@ -1,0 +1,565 @@
+2024-08-14 05:39:16.957 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Persistence.Context.ApplicationDbContext'.
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-08-14 05:39:16.964 +02:00 [ERR] Value cannot be null. (Parameter 'inArray')
+2024-08-14 05:39:16.964 +02:00 [ERR] L'opération a échouée
+2024-08-14 05:39:36.154 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Persistence.Context.ApplicationDbContext'.
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-08-14 05:39:36.155 +02:00 [ERR] Value cannot be null. (Parameter 'inArray')
+2024-08-14 05:39:36.155 +02:00 [ERR] L'opération a échouée
+2024-08-14 05:40:11.298 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Persistence.Context.ApplicationDbContext'.
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-08-14 05:40:11.299 +02:00 [ERR] Value cannot be null. (Parameter 'inArray')
+2024-08-14 05:40:11.299 +02:00 [ERR] L'opération a échouée
+2024-08-14 05:40:14.056 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Persistence.Context.ApplicationDbContext'.
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-08-14 05:40:14.057 +02:00 [ERR] Value cannot be null. (Parameter 'inArray')
+2024-08-14 05:40:14.057 +02:00 [ERR] L'opération a échouée
+2024-08-14 05:40:17.414 +02:00 [ERR] An exception occurred while iterating over the results of a query for context type 'Persistence.Context.ApplicationDbContext'.
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+System.ArgumentNullException: Value cannot be null. (Parameter 'inArray')
+   at System.ArgumentNullException.Throw(String paramName)
+   at System.Convert.ToBase64String(Byte[] inArray)
+   at lambda_method20174(Closure, QueryContext, DbDataReader, ResultContext, SingleQueryResultCoordinator)
+   at Microsoft.EntityFrameworkCore.Query.Internal.SingleQueryingEnumerable`1.AsyncEnumerator.MoveNextAsync()
+2024-08-14 05:40:17.415 +02:00 [ERR] Value cannot be null. (Parameter 'inArray')
+2024-08-14 05:40:17.415 +02:00 [ERR] L'opération a échouée
+2024-08-14 05:40:52.388 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 05:44:32.491 +02:00 [ERR] L'opération a échoué
+2024-08-14 06:31:51.578 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 06:31:51.635 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 06:31:51.637 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34660, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 06:31:51.641 +02:00 [ERR] L'opération a échouée.
+2024-08-14 07:08:36.987 +02:00 [ERR] Connection ID "17582052972634834761", Request ID "8000074c-0006-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Alert.AlertController.GetAllAlert()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 07:08:36.987 +02:00 [ERR] Connection ID "17870283348786550361", Request ID "8000165c-0006-f800-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Organization.OrganizationController.GetAllEtablishments()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 07:08:36.994 +02:00 [ERR] User Id is null or invalid
+2024-08-14 07:08:36.996 +02:00 [ERR] Connection ID "17726168134940886039", Request ID "8000041a-0000-f600-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ValSolutions.uEgar.Server.Controllers.Accident.AccidentTravailController.GetAll(PrevEntrepriseComplexKey idSite, Boolean isCreatedBySeulment) in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\Accident\AccidentTravailController.cs:line 18
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 07:08:36.996 +02:00 [ERR] Connection ID "18374686481282244890", Request ID "8000211d-0000-ff00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at Server.Controllers.Accident.ArretDeTravailController.GetAll(PrevEntrepriseComplexKey complexKey)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 07:08:37.063 +02:00 [ERR] Connection ID "17870283348786550361", Request ID "8000165d-0006-f800-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Organization.OrganizationController.GetAllEtablishments()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 07:08:37.066 +02:00 [ERR] User Id is null or invalid
+2024-08-14 08:04:32.251 +02:00 [ERR] Une visite médicale d'embauche a déjà été réalisée le 11/04/2024 13:30:00 +02:00 pour IUSTIN ANTONIE.
+2024-08-14 08:09:46.420 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 08:09:58.080 +02:00 [ERR] Une visite médicale d'embauche a déjà été réalisée le 11/04/2024 13:30:00 +02:00 pour IUSTIN ANTONIE.
+2024-08-14 08:13:51.318 +02:00 [ERR] Une visite médicale d'embauche a déjà été réalisée le 11/04/2024 13:30:00 +02:00 pour IUSTIN ANTONIE.
+2024-08-14 08:17:04.538 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 08:17:04.657 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 08:17:04.660 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34677, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 08:17:04.663 +02:00 [ERR] L'opération a échouée.
+2024-08-14 08:19:21.942 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 08:21:26.334 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 08:21:26.374 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 08:21:26.376 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34678, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 08:21:26.378 +02:00 [ERR] L'opération a échouée.
+2024-08-14 08:50:58.527 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 08:50:58.569 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 08:50:58.572 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34679, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 08:50:58.575 +02:00 [ERR] L'opération a échouée.
+2024-08-14 08:53:06.521 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 08:53:06.550 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 08:53:06.554 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34680, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 08:53:06.558 +02:00 [ERR] L'opération a échouée.
+2024-08-14 08:58:38.233 +02:00 [ERR] Une visite médicale d'embauche a déjà été réalisée le 11/04/2024 13:30:00 +02:00 pour IUSTIN ANTONIE.
+2024-08-14 09:09:09.307 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 09:09:28.842 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 09:15:25.757 +02:00 [ERR] A generic error occurred in GDI+.
+2024-08-14 09:15:25.931 +02:00 [ERR] An exception occurred in the database while saving changes for context type 'Persistence.Context.ApplicationDbContext'.
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.GenerationToken' with unique index 'IX_Token'. The duplicate key value is (eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJzb25uZWxFdGFibGlzc2VtZW50SWQiOiI0MDYwMTQtMTIiLCJldGFibGlzc2VtZW50SWQiOiIwLTAiLCJyb2xlIjoiOSIsIm5iZiI6MTcyMzYxOTcyNSwiZXhwIjoyNTM0MDIyOTcyMDAsImlhdCI6MTcyMzYxOTcyNSwiaXNzIjoiaHR0cDovLzE5Mi4xNjguMTAxLjk3IiwiYXVkIjoiaHR0cDovLzE5Mi4xNjguMTAxLjk3In0.icobSkIF5xnHHdv4DDdbNwqImi9abXJ4BPThqdZ6T1c).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:fe4ad008-038f-4092-8176-cb1bd7aea3ab
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+Microsoft.EntityFrameworkCore.DbUpdateException: An error occurred while saving the entity changes. See the inner exception for details.
+ ---> Microsoft.Data.SqlClient.SqlException (0x80131904): Cannot insert duplicate key row in object 'dbo.GenerationToken' with unique index 'IX_Token'. The duplicate key value is (eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwZXJzb25uZWxFdGFibGlzc2VtZW50SWQiOiI0MDYwMTQtMTIiLCJldGFibGlzc2VtZW50SWQiOiIwLTAiLCJyb2xlIjoiOSIsIm5iZiI6MTcyMzYxOTcyNSwiZXhwIjoyNTM0MDIyOTcyMDAsImlhdCI6MTcyMzYxOTcyNSwiaXNzIjoiaHR0cDovLzE5Mi4xNjguMTAxLjk3IiwiYXVkIjoiaHR0cDovLzE5Mi4xNjguMTAxLjk3In0.icobSkIF5xnHHdv4DDdbNwqImi9abXJ4BPThqdZ6T1c).
+   at Microsoft.Data.SqlClient.SqlConnection.OnError(SqlException exception, Boolean breakConnection, Action`1 wrapCloseInAction)
+   at Microsoft.Data.SqlClient.TdsParser.ThrowExceptionAndWarning(TdsParserStateObject stateObj, Boolean callerHasConnectionLock, Boolean asyncClose)
+   at Microsoft.Data.SqlClient.TdsParser.TryRun(RunBehavior runBehavior, SqlCommand cmdHandler, SqlDataReader dataStream, BulkCopySimpleResultSet bulkCopyHandler, TdsParserStateObject stateObj, Boolean& dataReady)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryHasMoreRows(Boolean& moreRows)
+   at Microsoft.Data.SqlClient.SqlDataReader.TryReadInternal(Boolean setTimeout, Boolean& more)
+   at Microsoft.Data.SqlClient.SqlDataReader.ReadAsyncExecute(Task task, Object state)
+   at Microsoft.Data.SqlClient.SqlDataReader.InvokeAsyncCall[T](SqlDataReaderBaseAsyncCallContext`1 context)
+--- End of stack trace from previous location ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+ClientConnectionId:fe4ad008-038f-4092-8176-cb1bd7aea3ab
+Error Number:2601,State:1,Class:14
+   --- End of inner exception stack trace ---
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeResultSetAsync(Int32 startCommandIndex, RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.AffectedCountModificationCommandBatch.ConsumeAsync(RelationalDataReader reader, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.ReaderModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Update.Internal.SqlServerModificationCommandBatch.ExecuteAsync(IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.Update.Internal.BatchExecutor.ExecuteAsync(IEnumerable`1 commandBatches, IRelationalConnection connection, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(IList`1 entriesToSave, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.ChangeTracking.Internal.StateManager.SaveChangesAsync(StateManager stateManager, Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.SqlServer.Storage.Internal.SqlServerExecutionStrategy.ExecuteAsync[TState,TResult](TState state, Func`4 operation, Func`4 verifySucceeded, CancellationToken cancellationToken)
+   at Microsoft.EntityFrameworkCore.DbContext.SaveChangesAsync(Boolean acceptAllChangesOnSuccess, CancellationToken cancellationToken)
+2024-08-14 09:15:25.934 +02:00 [ERR] An error occurred while saving the entity changes. See the inner exception for details.
+2024-08-14 09:24:33.429 +02:00 [ERR] Connection ID "18014398528272475885", Request ID "800026ef-0004-fa00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Alert.AlertController.GetAllAlert()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 09:27:30.902 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 09:27:30.937 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 09:27:30.942 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34681, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 09:27:30.947 +02:00 [ERR] L'opération a échouée.
+2024-08-14 09:31:25.156 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 09:31:25.181 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 09:31:25.183 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34682, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 09:31:25.186 +02:00 [ERR] L'opération a échouée.
+2024-08-14 09:42:11.063 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 10:08:35.679 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 10:08:35.704 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 10:08:35.706 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34683, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 10:08:35.710 +02:00 [ERR] L'opération a échouée.
+2024-08-14 10:09:03.519 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 10:09:03.529 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 10:09:03.532 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34684, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 10:09:03.534 +02:00 [ERR] L'opération a échouée.
+2024-08-14 10:10:36.790 +02:00 [ERR] Une visite médicale d'embauche a déjà été réalisée le 11/04/2024 13:30:00 +02:00 pour IUSTIN ANTONIE.
+2024-08-14 10:26:24.883 +02:00 [ERR] Role is null or invalid
+2024-08-14 10:26:36.912 +02:00 [ERR] Role is null or invalid
+2024-08-14 10:26:45.315 +02:00 [ERR] Role is null or invalid
+2024-08-14 10:36:53.877 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 10:36:53.917 +02:00 [ERR] The given format "
+<body style="w..." does not match the number of args: 4.
+2024-08-14 10:36:53.920 +02:00 [ERR] The association between entities 'CodeTemporaireAuthentification' and 'CodeTemporaireAuthentificationInfoSup' with the key value '{IdcodeTemporaireAuthentification: 34685, SiteCodeTemporaireAuthentification: 1}' has been severed, but the relationship is either marked as required or is implicitly required because the foreign key is not nullable. If the dependent/child entity should be deleted when a required relationship is severed, configure the relationship to use cascade deletes.
+2024-08-14 10:36:53.923 +02:00 [ERR] L'opération a échouée.
+2024-08-14 10:41:30.017 +02:00 [ERR] Connection ID "17582052951159996595", Request ID "800000b5-0001-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Organization.OrganizationController.GetAllEtablishments()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 10:41:30.079 +02:00 [ERR] Connection ID "17870283348786550584", Request ID "8000173b-0006-f800-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Alert.AlertController.GetAllAlert()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 10:41:30.082 +02:00 [ERR] User Id is null or invalid
+2024-08-14 10:41:30.091 +02:00 [ERR] Connection ID "17582052951159996595", Request ID "800000b6-0001-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains no matching element
+   at System.Linq.ThrowHelper.ThrowNoMatchException()
+   at ValSolutions.uEgar.Server.Controllers.Organization.OrganizationController.GetAllEtablishments()
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 10:41:30.146 +02:00 [ERR] User Id is null or invalid
+2024-08-14 10:42:18.470 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 10:42:18.471 +02:00 [ERR] L'opération a échouée
+2024-08-14 10:42:18.472 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 10:42:18.472 +02:00 [ERR] L'opération a échouée.
+2024-08-14 10:42:18.539 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 10:42:18.539 +02:00 [ERR] L'opération a échouée.
+2024-08-14 10:42:18.544 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 10:42:18.544 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:09:05.608 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:08.482 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:09.357 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:09.577 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:09.716 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:09.857 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:10:10.001 +02:00 [ERR] L'opération a échoué
+2024-08-14 11:15:24.395 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 11:15:24.395 +02:00 [ERR] L'opération a échouée.
+2024-08-14 11:15:24.400 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 11:15:24.400 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:15:24.458 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 11:15:24.459 +02:00 [ERR] L'opération a échouée.
+2024-08-14 11:15:24.465 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 11:15:24.465 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:18:17.274 +02:00 [ERR] Aucune annonce trouvée
+2024-08-14 11:42:56.628 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 11:42:56.629 +02:00 [ERR] L'opération a échouée.
+2024-08-14 11:42:56.634 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 11:42:56.635 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:42:56.718 +02:00 [ERR] The source 'IQueryable' doesn't implement 'IAsyncEnumerable<Domain.Model.ActePrevisionnel>'. Only sources that implement 'IAsyncEnumerable' can be used for Entity Framework asynchronous operations.
+2024-08-14 11:42:56.719 +02:00 [ERR] L'opération a échouée.
+2024-08-14 11:42:56.722 +02:00 [ERR] Value cannot be null. (Parameter 'source')
+2024-08-14 11:42:56.723 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:43:02.708 +02:00 [ERR] Connection ID "17582052951159996726", Request ID "80000143-0001-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ValSolutions.uEgar.Server.Controllers.MyCompany.MyCompanyController.GetAllContactTypes() in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\MyCompany\MyCompanyController.cs:line 88
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 11:43:02.941 +02:00 [ERR] Connection ID "17582052951159996726", Request ID "80000144-0001-f400-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ValSolutions.uEgar.Server.Controllers.MyCompany.MyCompanyController.GetAllContactTypes() in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\MyCompany\MyCompanyController.cs:line 88
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 11:43:56.965 +02:00 [ERR] Requested value 'Roumaine' was not found.
+2024-08-14 11:43:56.966 +02:00 [ERR] L'opération a échouée
+2024-08-14 11:47:47.600 +02:00 [ERR] Connection ID "12105675808572445513", Request ID "8000134b-0002-a800-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ValSolutions.uEgar.Server.Controllers.MyCompany.MyCompanyController.GetAllContactTypes() in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\MyCompany\MyCompanyController.cs:line 88
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 12:07:50.068 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:07:50.068 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:15:53.173 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:15:53.173 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:19:04.113 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:19:04.114 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:19:59.045 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:19:59.045 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:15.912 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:15.912 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:17.066 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:17.066 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:17.329 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:17.329 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:17.775 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:17.775 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:18.118 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:18.118 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:18.410 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:18.411 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:18.708 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:18.709 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:19.441 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:19.442 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:21:59.017 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:21:59.018 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:22:31.319 +02:00 [ERR] Requested value 'Fr' was not found.
+2024-08-14 12:22:31.319 +02:00 [ERR] L'opération a échouée
+2024-08-14 12:22:53.969 +02:00 [ERR] Connection ID "18302628904424185770", Request ID "80001fac-0004-fe00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at ValSolutions.uEgar.Server.Controllers.Accident.AccidentTravailController.DeclarerAccident(DeclarerAccidentModel model) in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\Accident\AccidentTravailController.cs:line 73
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 12:23:46.678 +02:00 [ERR] Connection ID "17726168147825792017", Request ID "8000141c-0003-f600-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Server.Controllers.Accident.ArretDeTravailController.AddArretDeTravail(AddNewArretTravailModel newArret) in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\ArretTravail\ArretDeTravailController.cs:line 70
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
+2024-08-14 12:29:32.901 +02:00 [ERR] path doesn't exist
+2024-08-14 13:03:23.827 +02:00 [ERR] Connection ID "18158513703463423962", Request ID "80000fee-0001-fc00-b63f-84710c7967bb": An unhandled exception was thrown by the application.
+System.InvalidOperationException: Sequence contains more than one matching element
+   at System.Linq.ThrowHelper.ThrowMoreThanOneMatchException()
+   at System.Linq.Enumerable.TryGetSingle[TSource](IEnumerable`1 source, Func`2 predicate, Boolean& found)
+   at System.Linq.Enumerable.Single[TSource](IEnumerable`1 source, Func`2 predicate)
+   at Server.Controllers.Accident.ArretDeTravailController.AddArretDeTravail(AddNewArretTravailModel newArret) in C:\agents-devops\agent2\_work\25\s\PrevEntreprise\Controllers\ArretTravail\ArretDeTravailController.cs:line 70
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ActionMethodExecutor.TaskOfIActionResultExecutor.Execute(ActionContext actionContext, IActionResultTypeMapper mapper, ObjectMethodExecutor executor, Object controller, Object[] arguments)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeActionMethodAsync>g__Awaited|12_0(ControllerActionInvoker invoker, ValueTask`1 actionResultValueTask)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.<InvokeNextActionFilterAsync>g__Awaited|10_0(ControllerActionInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Rethrow(ActionExecutedContextSealed context)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ControllerActionInvoker.InvokeInnerFilterAsync()
+--- End of stack trace from previous location ---
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeFilterPipelineAsync>g__Awaited|20_0(ResourceInvoker invoker, Task lastTask, State next, Scope scope, Object state, Boolean isCompleted)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Mvc.Infrastructure.ResourceInvoker.<InvokeAsync>g__Logged|17_1(ResourceInvoker invoker)
+   at Microsoft.AspNetCore.Routing.EndpointMiddleware.<Invoke>g__AwaitRequestTask|7_0(Endpoint endpoint, Task requestTask, ILogger logger)
+   at Microsoft.AspNetCore.Authorization.AuthorizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Authentication.AuthenticationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.Localization.RequestLocalizationMiddleware.Invoke(HttpContext context)
+   at Microsoft.AspNetCore.RateLimiting.RateLimitingMiddleware.InvokeInternal(HttpContext context, EnableRateLimitingAttribute enableRateLimitingAttribute)
+   at Microsoft.AspNetCore.Server.IIS.Core.IISHttpContextOfT`1.ProcessRequestAsync()
